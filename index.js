@@ -158,7 +158,7 @@ const badword = JSON.parse(fs.readFileSync('./database/badword.json'))
 //kontak 
 const vcard1 = 'BEGIN:VCARD\n' 
               + 'VERSION:3.0\n' 
-              + 'FN:yahaha Fachri\n' //ganti nama lu! 
+              + 'FN:ItsFahri Pengocok\n' //ganti nama lu! 
               + 'ORG: OwnerFachri;\n' 
               + 'TEL;type=CELL;type=VOICE;waid=6289643739077:+62 89643739077\n'  //ganti nomor lu! 
               + 'END:VCARD'
@@ -178,14 +178,14 @@ multi = true
 antidel = false
 nopref = false
 publik = false
-fake = 'self-xcode'
+fake = 'EaBro-Pengocok-Handal999'
 baterai = 'belum detect'
 charging = 'unknown'
 numbernye = '0'
 waktunya = '-'
 targetpc = '6285795090949'
 alasan = '-'
-owner = '6289643739077'
+owner = '6289643739077' //Ubah Jadi Nomor Lo!
 //===================================================//
 const addafk = (from) => {
     const obj = { id: from, expired: Date.now() + toMs('0m') }
@@ -2371,7 +2371,7 @@ listrik = charging ? '⚡' : 'ga di cas'
 *┣❒* Device : ${spek.device_manufacturer}
 *┣❒* Version : ${spek.os_version}
 *┣❒* *RUNTIME: ${runtime(process.uptime())}*
-*┣❒* YT: *bit.ly/Fachrixcode* 
+*┣❒* YT: *bit.ly/Fachrixcode https://github.com/EaBro/xselfbot* 
 *┃*
 *┣❒* *༒Sticker Menu༒*
 *┣❒* ${l++}.•${prefix}sticker

@@ -1,8 +1,8 @@
 # xselfbot
 Xselfbot :)
 
-# Video Install
-https://youtu.be/U4CSTglD3ds
+# Video Install + Bisa Recode
+https://youtu.be/U4CSTglD3ds Jangan Lupa Di Subscribe..
 
 # Thanks
 ```
